@@ -54,7 +54,7 @@ Animavita's purpose is not to change how people use facebook to the activities d
 
 ## :dizzy: **Roadmap**
 
-Check the [Roadmap](/ROADMAP.md) to more details about itens below.
+Check the [Roadmap](/ROADMAP.md) to more details about items below.
 
 -   [ ] Rescue system (WIP)
 -   [ ] Write CONTRIBUTING.md + Install instructions
